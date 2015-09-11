@@ -34,7 +34,7 @@ Button start,end;
             @Override
             public void onClick(View v) {
                 stopService(intent);
-
+//测试代码
 
             }
         });
